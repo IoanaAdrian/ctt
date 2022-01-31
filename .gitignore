@@ -1,2 +1,4 @@
 # executables
 *.out 
+# vim swp
+*.swp
